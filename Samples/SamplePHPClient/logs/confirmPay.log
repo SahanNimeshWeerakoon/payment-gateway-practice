@@ -1,0 +1,27 @@
+[2020-11-07 13:23:54][line:103|info]:	Setting Client Public Key Path:/opt/lgps/keys/merchants/TEST2/0001/test2-0001.crt
+[2020-11-07 13:23:54][line:114|info]:	Setting Client Private Key Path:/opt/lgps/keys/merchants/TEST2/0001/test2-0001.key
+[2020-11-07 13:23:54][line:132|info]:	Setting LGPS Public Key Path:/opt/lgps/keys/merchants/TEST2/0001/testlgps.pem
+[2020-11-07 13:23:54][line:172|info]:	Generating Encrypted Payment Request
+[2020-11-07 13:23:54][line:175|info]:	------------------------Payment Request Details--------------------------
+[2020-11-07 13:23:54][line:176|info]:	Service Code:TEST20001
+[2020-11-07 13:23:54][line:177|info]:	Transaction Ref No:497851
+[2020-11-07 13:23:54][line:178|info]:	Transaction Amount:1
+[2020-11-07 13:23:54][line:179|info]:	Return URL:http://localhost/SamplePHPClient/response.php
+[2020-11-07 13:23:54][line:180|info]:	-------------------------------------------------------------------------
+[2020-11-07 13:23:54][line:201|info]:	Start - Encrypting Payment Request ...
+[2020-11-07 13:23:54][line:52|error]:	Error in Accessing Client Private Key:Invalid Key
+[2020-11-07 13:38:07][line:103|info]:	Setting Client Public Key Path:C:/xampp/htdocs/LGPS_PHP_CLIENT/Samples/keys/0001/test2-0001.crt
+[2020-11-07 13:38:08][line:114|info]:	Setting Client Private Key Path:C:/xampp/htdocs/LGPS_PHP_CLIENT/Samples/keys/0001/test2-0001.key
+[2020-11-07 13:38:08][line:132|info]:	Setting LGPS Public Key Path:C:/xampp/htdocs/LGPS_PHP_CLIENT/Samples/keys/0001/testlgps.pem
+[2020-11-07 13:38:08][line:172|info]:	Generating Encrypted Payment Request
+[2020-11-07 13:38:08][line:175|info]:	------------------------Payment Request Details--------------------------
+[2020-11-07 13:38:08][line:176|info]:	Service Code:TEST20001
+[2020-11-07 13:38:08][line:177|info]:	Transaction Ref No:675102
+[2020-11-07 13:38:08][line:178|info]:	Transaction Amount:1
+[2020-11-07 13:38:08][line:179|info]:	Return URL:http://localhost/SamplePHPClient/response.php
+[2020-11-07 13:38:08][line:180|info]:	-------------------------------------------------------------------------
+[2020-11-07 13:38:08][line:201|info]:	Start - Encrypting Payment Request ...
+[2020-11-07 13:38:08][line:96|info]:	Getting Client Private Key...
+[2020-11-07 13:38:08][line:63|info]:	Getting Client Public Key ...
+[2020-11-07 13:38:08][line:203|info]:	Signature created...
+[2020-11-07 13:38:08][line:206|info]:	3DES Key generated...
